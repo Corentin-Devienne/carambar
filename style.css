@@ -1,0 +1,43 @@
+#container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: rgb(255, 0, 153);
+  }
+  
+  #blague {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: red;
+  }
+  
+  #boutonBlague {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(255, 0, 153);
+    color: white;
+    margin-top: 20px;
+  }
+ body{
+    background-color: rgb(255, 255, 255);
+ }
+ #logo{
+    width: 200px;
+    content: center;
+    }
+header{
+    background-color: rgb(255, 255, 75);
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#entete{
+    border:  red 20px;
+    padding: 10px;
+}
+  
